@@ -1,6 +1,6 @@
 ### About ProxyOrb
 
-![Free Website Proxy and Online Proxy Browser](proxyorb-og.png)
+[![Free Website Proxy and Online Proxy Browser](proxyorb-og.png)](https://proxyorb.com/)
 
 ---
 
